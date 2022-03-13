@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402543527626",
+    "project_id": "offlinequiz-81129",
+    "storage_bucket": "offlinequiz-81129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402543527626:android:10887c7bd799e1a3701633",
+        "android_client_info": {
+          "package_name": "com.example.offlinequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402543527626-3chiqtqa0dgucujv18oogjpgr536pctl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.offlinequiz",
+            "certificate_hash": "029306fc4a54e0902b0490f8ae2bdbce4e44d8b4"
+          }
+        },
+        {
+          "client_id": "402543527626-0joirdv088k8scpdqg828pg6pglr5l4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALI-429wWf-agGesar_8R-hZhhOlknawo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402543527626-0joirdv088k8scpdqg828pg6pglr5l4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
